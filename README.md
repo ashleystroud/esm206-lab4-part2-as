@@ -1,7 +1,6 @@
 # esm206-lab4-part2-as
 
-#my awesome read-me!
-
+# my awesome read-me!
 -some
 -bullet
 -points
